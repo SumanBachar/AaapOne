@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117320414825",
+    "project_id": "aaapone",
+    "storage_bucket": "aaapone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117320414825:android:d2a9d164a5d5ccc4d754f8",
+        "android_client_info": {
+          "package_name": "com.example.aaapone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117320414825-r4b5cecvlm2sjs7pbbl8ta6036aa81d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDULL0xPCqQaamtF_dOyZ-q-c8aS2JOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117320414825-r4b5cecvlm2sjs7pbbl8ta6036aa81d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
